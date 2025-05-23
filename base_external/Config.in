@@ -1,0 +1,6 @@
+menu "AESD assignments"
+
+    source "package/aesd-assignments/Config.in"
+
+endmenu
+

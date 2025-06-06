@@ -1,4 +1,0 @@
-config BR2_PACKAGE_AESD_ASSIGNMENTS
-    bool "aesd-assignments"
-    help
-      Custom package for aesd assignments including writer, finder and tester scripts.
